@@ -49,7 +49,7 @@ window.addEventListener("load", () => {
         // Put the box in the webpage.
         document.body.appendChild(p);
 
-    })("div", "edenai-message-iframe-container", "iframe", "https://widget.mhapy.com/", 'script', 'gh/maro-okegbero/mhapy-widget');
+    })("div", "edenai-message-iframe-container", "iframe", "https://widget.mhapy.com/", 'script', 'gh/mhapy/widget-connector');
     // The above line is where the function is called with specific values.
 
     // Part 2: Handling Messages from the iframe
